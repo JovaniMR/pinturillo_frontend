@@ -1,0 +1,10 @@
+p{
+    font-size: 20px;
+    color: #FFCC66;
+}
+
+.list-group-item{
+    background-color: #326263;
+    border-bottom: 2px solid #FFCC66;
+    color: #fff;
+}

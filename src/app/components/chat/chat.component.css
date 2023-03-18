@@ -1,0 +1,26 @@
+.list-group{
+    border: 5px solid #FFCC66;
+    border-radius: 10px;
+    min-height: 360px;
+    max-height: 360px;
+    overflow-y: auto;
+}
+
+.list-group strong{
+    color: #FFCC66
+}
+
+.list-group-item{
+    background-color: #326263;
+    color: #fff;
+    border-bottom: 0;
+}
+
+.input-group-text{
+    background-color: #FFCC66;
+    cursor: pointer;
+}
+
+.user{
+    text-align: end;
+}

@@ -1,0 +1,22 @@
+canvas{
+    background-color: #1B4A38;
+    border: 10px solid #9E7641;
+    border-radius: 5px;
+    cursor: crosshair;
+}
+
+.zone-btn{
+   display: flex;
+   justify-content: end;
+}
+
+.zone-btn button{
+    background-color: #FF9966;
+    border-color: #FF9966;
+}
+
+.zone-btn button:hover{
+    background-color: #FF9966;
+    border-color: #FF9966;
+    opacity: 0.8;
+}
