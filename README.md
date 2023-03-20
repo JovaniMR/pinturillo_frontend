@@ -6,7 +6,7 @@
 - Angular(v15.x)
 
 #### Características
-- Ninkname personal
+- Nickname personal
 - Visualización de usuarios conectados
 - Envia y recibe mensajes en tiempo real (chat de grupo)
 - Dibujo compartido (dibuja con otros usuarios en tiempo real)
