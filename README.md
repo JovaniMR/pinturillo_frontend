@@ -1,7 +1,7 @@
 # Pinturillo (Dibuja junto a otros usuarios en tiempo real)
 
 #### Tecnologías
-- HTML, CSS, Boostrap, Jvascript
+- HTML, CSS, Bootstrap, Javascript
 - Socket.io
 - Angular(v15.x)
 
